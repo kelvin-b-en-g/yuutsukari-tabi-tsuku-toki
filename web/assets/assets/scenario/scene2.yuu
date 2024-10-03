@@ -1,0 +1,3 @@
+dialogue "ノシノ" "この私が、負けるとは。。。" "p_yuu_smile.png" * * 500
+chr "tachie1.png" chr1 0 0 $fade_in
+chr "tachie2.png" chr2 0 0 $swipe_up

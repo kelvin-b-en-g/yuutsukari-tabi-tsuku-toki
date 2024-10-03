@@ -71219,7 +71219,7 @@ A.RZ.prototype={}
 A.Ju.prototype={
 KT(a,b){var s=null,r=$.aj9(),q=this.r
 q===$&&A.a()
-return A.ajE(s,s,A.kF(B.U,A.YC(B.wR,!1,1/0,new A.kI("backgrounds/"+q),s),s,s,B.aS),s,s,r.a,s,s,s,s,s,s)}}
+return A.ajE(s,s,A.kF(B.U,A.YC(B.wR,!1,1/0,new A.kI("assets/backgrounds/"+q),s),s,s,B.aS),s,s,r.a,s,s,s,s,s,s)}}
 A.eG.prototype={}
 A.cX.prototype={}
 A.JI.prototype={}
@@ -71523,7 +71523,7 @@ a9p(a){var s=0,r=A.I(t.Xb),q,p
 var $async$vh=A.J(function(b,c){if(b===1)return A.F(c,r)
 while(true)switch(s){case 0:p=new A.Fj()
 s=3
-return A.N($.me().uY("/scenario/"+a+".yuu"),$async$vh)
+return A.N($.me().uY("assets/scenario/"+a+".yuu"),$async$vh)
 case 3:q=p.ct(c)
 s=1
 break
@@ -71694,7 +71694,7 @@ $S:0}
 A.adf.prototype={
 $0(){this.a.$0()
 this.b.qH()
-$.me().uY("/scenario/scene1.txt").bi(new A.add(this.c),t.P)
+$.me().uY("assets/scenario/scene1.txt").bi(new A.add(this.c),t.P)
 return new A.ade()},
 $S:443}
 A.add.prototype={
